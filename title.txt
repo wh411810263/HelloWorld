@@ -1,3 +1,4 @@
 this is a test text
 git is a free software
 git has amutable index called stage
+fouth modify
